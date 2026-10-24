@@ -1,0 +1,7 @@
+1,U101,Riya,OrganicWaste,Canteen,6.0,Assigned,W301
+2,U101,Riya,OrganicWaste,Canteen,6.0,Assigned,W301
+3,23456,bhu,RecyclableWaste,Library,234.0,Pending,none
+4,2345,vg,RecyclableWaste,Library,23.0,Pending,none
+5,45,sdfghj,RecyclableWaste,Library,34.0,Pending,none
+6,2345678,SDFGHNM,RecyclableWaste,Library,234.0,Pending,none
+7,234567,asdfghj,RecyclableWaste,Library,23.0,Pending,none
