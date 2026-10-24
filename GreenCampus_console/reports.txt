@@ -1,2 +1,0 @@
-1,U101,Riya,OrganicWaste,Canteen,6.0,Assigned,W301
-2,U101,Riya,OrganicWaste,Canteen,6.0,Assigned,W301
