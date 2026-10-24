@@ -1,0 +1,4 @@
+[ORD-20261023-154820] Token:SC-1001 | Yashraj Ghate (RBT25CB042) | Items:2 | Total:?72.00 | Mode:UPI (yashraj@okaxis) | Status:PLACED
+[ORD-20261023-154820] Token:SC-1001 | Yashraj Ghate (RBT25CB042) | Items:2 | Total:?72.00 | Mode:UPI (yashraj@okaxis) | Status:PREPARING
+[ORD-20261023-154820] Token:SC-1001 | Yashraj Ghate (RBT25CB042) | Items:2 | Total:?72.00 | Mode:UPI (yashraj@okaxis) | Status:READY
+[ORD-20261023-154820] Token:SC-1001 | Yashraj Ghate (RBT25CB042) | Items:2 | Total:?72.00 | Mode:UPI (yashraj@okaxis) | Status:COLLECTED

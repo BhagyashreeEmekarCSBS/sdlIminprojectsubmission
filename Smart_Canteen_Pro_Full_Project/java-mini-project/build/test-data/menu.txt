@@ -1,0 +1,15 @@
+F101|Poha with Sev|30.00|Breakfast|true|5|true|40
+F102|Upma Chutney|35.00|Breakfast|true|7|true|30
+F103|Samosa (2 pc)|25.00|Snacks|true|5|true|48
+F104|Vada Pav (2 pc)|30.00|Snacks|true|5|true|45
+F105|Masala Dosa|70.00|South Indian|true|12|true|35
+F106|Idli Vada Combo|55.00|South Indian|true|6|true|40
+F107|Veg Dum Biryani|110.00|Main Course|true|15|true|25
+F108|Pav Bhaji Plate|80.00|Main Course|true|10|true|30
+F109|Paneer Butter Masala|130.00|North Indian|true|15|true|20
+F110|Veg Hakka Noodles|85.00|Chinese|true|12|true|30
+F111|Masala Chai|20.00|Beverages|true|4|true|78
+F112|Cold Coffee|55.00|Beverages|true|5|true|40
+F113|Fresh Lime Soda|35.00|Beverages|true|4|true|50
+F114|Chocolate Brownie|45.00|Desserts|true|3|true|25
+F115|Student Deluxe Thali|140.00|Combos|true|15|true|25
